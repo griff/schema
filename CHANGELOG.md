@@ -1,3 +1,6 @@
+## 1.0.4
+ * Better performance for anonymous schematized functions, via lazy checker creation
+
 ## 1.0.3
  * Fix warning about overriding `atom` under Clojure 1.7
  * Fix behavior of `constrained` with some schemas (e.g. maps).
